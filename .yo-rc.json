@@ -35,7 +35,9 @@
     "enableTranslation": false,
     "clientPackageManager": "npm",
     "blueprint": "generator-jhipster-vuejs",
-    "blueprintVersion": "1.0.0-beta2"
+    "blueprintVersion": "1.0.0-beta2",
+    "herokuAppName": "geo-iss",
+    "herokuDeployType": "jar"
   },
   "generator-jhipster-vuejs": {
     "clientTheme": "pulse",
